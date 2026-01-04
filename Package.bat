@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --name deduplicate_files deduplicate_files.py
